@@ -1,0 +1,10 @@
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.GreenvilleRevenueGUI.resources
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\Arik\source\repos\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
