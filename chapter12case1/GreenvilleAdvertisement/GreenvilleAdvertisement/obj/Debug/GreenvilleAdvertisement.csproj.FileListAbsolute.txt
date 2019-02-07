@@ -1,0 +1,11 @@
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\bin\Debug\GreenvilleAdvertisement.exe.config
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\bin\Debug\GreenvilleAdvertisement.exe
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\bin\Debug\GreenvilleAdvertisement.pdb
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.csprojAssemblyReference.cache
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.GreenvilleAdvertisement.resources
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.GreenvilleEntryDetailsForm.resources
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.Properties.Resources.resources
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.csproj.GenerateResource.cache
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.exe
+C:\Users\Arik\source\repos\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.pdb
