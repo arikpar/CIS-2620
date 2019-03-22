@@ -1,3 +1,6 @@
+//Arik Parenteau
+//
+
 using System;
 using static System.Console;
 namespace GreenvileRevenue
